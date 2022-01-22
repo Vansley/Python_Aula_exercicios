@@ -1,4 +1,4 @@
-a = int(input ('entre com o primeiro valor: '))
+a = int(input ('entre com o primeiro valor: ')))
 b = int(input('entre com o segundo valor:' ))
 print(type (a))
 soma = a + b
